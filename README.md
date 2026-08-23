@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Eduardo! 👋
 
-<!--
-**EduardoDMarreroB/EduardoDMarreroB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering Student at Universidad Metropolitana
 
-Here are some ideas to get you started:
+🐍 Currently learning Python and software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Building projects to strengthen my programming and problem-solving skills
+
+## 🚀 Projects
+
+- 🥤 Vending Machine System — Python
+- 🎮 Career Orientation Game — Code.org / App Lab
+
+## 🛠️ Technologies & Tools
+
+- Python
+- Git & GitHub
+- VS Code
+- Microsoft Office
+
+## 📚 Currently Learning
+
+- Software Development
+- Programming Fundamentals
+- Git & GitHub
+- Systems Engineering
+
+## 🎯 Goals
+
+Continue developing my technical skills, build meaningful projects,
+and explore different areas of Systems Engineering.
+
+---
+
+⭐ Thanks for visiting my profile!
