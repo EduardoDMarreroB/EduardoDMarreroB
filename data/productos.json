@@ -1,0 +1,32 @@
+[
+  {
+    "cod": "CocaC",
+    "prod": "Coca-Cola Classic 355 ml",
+    "precio": 1.10,
+    "despedida": "¡Disfruta de tu Coca-Cola bien fría!"
+  },
+  {
+    "cod": "CocaZ",
+    "prod": "Coca-Cola Zero 355 ml",
+    "precio": 1.20,
+    "despedida": "¡Más sabor, menos azúcar!"
+  },
+  {
+    "cod": "Fanta",
+    "prod": "Fanta Naranja 355 ml",
+    "precio": 1.20,
+    "despedida": "¡Fanta Naranja es un Hit!"
+  },
+  {
+    "cod": "Nevada",
+    "prod": "Nevada 500 ml",
+    "precio": 0.70,
+    "despedida": "¡Nevada es el agua mineral!"
+  },
+  {
+    "cod": "Ruffl",
+    "prod": "Ruffles Deli Size",
+    "precio": 2.00,
+    "despedida": "Disfruta tus Ruffles onduladas"
+  }
+]
